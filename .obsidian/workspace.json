@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "011ea08f16257d1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "736540da215cb206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5af8b3c274f705a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph Theory Class/Classes/Class 1-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93704a2945755613",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6d2f511302adbf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33d5dc810e08836a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef027070f5a75c90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2dd1412af846e62c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e589794230bf819a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce14ee4837b37384",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f15404b3fab7025",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Graph Theory Class/Classes/Class 1-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3742ef0ecb2aa6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Graph Theory Class/Classes/Class 1-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8869e532c6f90b69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aca0674419d95a03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Graph Theory Class/Classes/Class 1-25.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b5af8b3c274f705a",
+  "lastOpenFiles": [
+    "Graph Theory Class/Classes/Class 1-30.md",
+    "Welcome.md",
+    "Pasted image 20240125093824.png",
+    "Excalidraw/hypergraphEX.md",
+    "Excalidraw/bipartyay.md",
+    "Excalidraw",
+    "Graph Theory Class/Theorem/Theorem 1.1.md",
+    "Graph Theory Class/Terms/multiset.md",
+    "Graph Theory Class/Terms/Walk.md",
+    "Graph Theory Class/Terms/Vertex.md",
+    "Graph Theory Class/Terms/Undirected Graph.md",
+    "Graph Theory Class/Terms/Pseudograph.md",
+    "Graph Theory Class/Terms/Null Graph.md",
+    "Graph Theory Class/Terms/Neighborhood.md",
+    "Graph Theory Class/Terms/Multigraph.md",
+    "Graph Theory Class/Terms/Infinite Graph.md",
+    "Graph Theory Class/Terms/Independent.md",
+    "Graph Theory Class/Terms/Hypergraph.md",
+    "Graph Theory Class/Terms/Graph.md",
+    "Graph Theory Class/Terms/Empty Graph.md",
+    "Graph Theory Class/Terms/Edge.md",
+    "Graph Theory Class/Terms/Directed Graph.md",
+    "Graph Theory Class/Terms/Deletion.md",
+    "Graph Theory Class/Terms/Degree.md",
+    "Graph Theory Class/Terms/Cycle.md",
+    "Graph Theory Class/Terms/Complete Graph.md",
+    "Graph Theory Class/Terms/Adjacency.md",
+    "Graph Theory Class/Classes/Class 1-25.md",
+    "Graph Theory Class/Theorem",
+    "Graph Theory Class/Terms",
+    "Graph Theory Class/Classes",
+    "Graph Theory Class"
+  ]
+}
