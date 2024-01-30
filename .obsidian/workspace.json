@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f98f3fc40e96394f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph Theory Class/Classes/Class 1-25.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph Theory Class/Classes/Class 1-25.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph Theory Class/Classes/Class 1-25.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5af8b3c274f705a",
+  "active": "f98f3fc40e96394f",
   "lastOpenFiles": [
+    "Graph Theory Class/Classes/Class 1-25.md",
+    "README.md",
     "Graph Theory Class/Classes/Class 1-30.md",
     "Welcome.md",
     "Pasted image 20240125093824.png",
@@ -175,8 +190,6 @@
     "Graph Theory Class/Terms/Degree.md",
     "Graph Theory Class/Terms/Cycle.md",
     "Graph Theory Class/Terms/Complete Graph.md",
-    "Graph Theory Class/Terms/Adjacency.md",
-    "Graph Theory Class/Classes/Class 1-25.md",
     "Graph Theory Class/Theorem",
     "Graph Theory Class/Terms",
     "Graph Theory Class/Classes",

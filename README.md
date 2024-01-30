@@ -1,0 +1,1 @@
+notes i take for class. using obsidian for my creating and viewing
